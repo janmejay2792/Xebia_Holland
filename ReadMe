@@ -1,5 +1,8 @@
 
 
-// How to Execute the Script 
+How To Run
 
-1 . Go to runand run with debug mode or Run without ebug
+1 Npm Install
+2. Run throuh Launcher -- Go to run and execute
+3 Run through Command line --
+    protractor .\Built-transpiled-JS\conf.js
